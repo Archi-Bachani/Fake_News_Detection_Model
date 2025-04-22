@@ -7,6 +7,7 @@ This project focuses on detecting **fake news** using various machine learning a
 ## 📌 Overview
 
 We used a publicly available dataset from [Kaggle](https://www.kaggle.com/clmentbisaillon/fake-and-real-news-dataset), which contains two separate files:
+
 - `Fake.csv` — Articles flagged as fake
 - `True.csv` — Articles labeled as real
 
@@ -38,10 +39,16 @@ Dataset used: [Fake and Real News Dataset – Kaggle](https://www.kaggle.com/clm
 ## ⚙️ Installation
 
 1. Clone the repository:
+
    ```bash
    git clone https://github.com/Archi-Bachani/Fake_News_Detection_Model.git
    cd Fake_News_Detection_Model
 
-2. Install Dependencies
+   ```
+
+2. Install Dependencies:
+
+```bash
 pip install -r requirements.txt
 
+```
