@@ -48,7 +48,7 @@ Dataset used: [Fake and Real News Dataset – Kaggle](https://www.kaggle.com/clm
 
 2. Install Dependencies:
 
-```bash
-pip install -r requirements.txt
+    ```bash
+    pip install -r requirements.txt
 
-```
+    ```
